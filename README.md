@@ -1,4 +1,4 @@
-# Toronto_House_Price
+# Toronto_House_Data
 MLS data analysis
 
 ![img](https://github.com/krystinli/Toronto_House_Price/blob/main/img/for_sale_img.jpg)
