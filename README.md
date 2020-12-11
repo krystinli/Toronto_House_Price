@@ -18,3 +18,7 @@ I've been going through house search earlier this year and reading a lot about t
 - The decision may mean the end of a long legal battle over whether consumers should have online access to information such as home sales prices, house history and property market trends in a neighbourhood.
 - TREB has fought since 2011 to keep the figures in the hands of real estate agents, arguing that posting the data would violate consumer privacy.
 
+However, finding the raw MLS data is still not easy ... [when_are_canadians_going_to_get_access_to_mls_data](https://www.reddit.com/r/canada/comments/ayrw4v/when_are_canadians_going_to_get_access_to_mls_data/)
+- Housesigma
+- Realtor.ca
+- Zillow
