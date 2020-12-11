@@ -29,4 +29,4 @@ Is Web scraping legal?
 
 ## 02_What's_Next?
 - how to get over the page limit?
-- potential geographic analysis
+- potential geographic analysis [gmaps](https://towardsdatascience.com/an-end-to-end-data-science-project-that-will-boost-your-portfolio-c53cfe16f0e3)
