@@ -21,3 +21,9 @@ I've been going through house search earlier this year and reading a lot about t
 
 After going through all the articles and websites, I feel pretty grateful of all the analysis I get from the apps. But I also feel kina itchy for getting some raw data and doing analysis myself. However, finding the raw MLS data is still not easy ... [when_are_canadians_going_to_get_access_to_mls_data](https://www.reddit.com/r/canada/comments/ayrw4v/when_are_canadians_going_to_get_access_to_mls_data/)
 
+## 01_Web_Scraping
+Is Web scraping legal?
+- In Canada, it's controversal. Copying of content without permission is illegal, but nothing explicit around scraping content with no distribution.  
+- In late 2019, the US Court of Appeals denied LinkedIn’s request to prevent HiQ, an analytics company, from scraping its data. Any data that is publicly available and not copyrighted is fair game for web crawlers. 
+- But commercial use of scraped data is still limited. Some forms of web scraping are also still illegal - The decision also does not grant web crawlers the freedom to obtain data from sites that require authentication.
+- The ruling excludes sites that require authentication because users must agree to the site’s Terms of Service before logging-in to the site.
