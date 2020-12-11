@@ -24,6 +24,5 @@ After going through all the articles and websites, I feel pretty grateful of all
 ## 01_Web_Scraping
 Is Web scraping legal?
 - In Canada, it's controversal. Copying of content without permission is illegal, but nothing explicit around scraping content with no distribution.  
-- In late 2019, the US Court of Appeals denied LinkedIn’s request to prevent HiQ, an analytics company, from scraping its data. Any data that is publicly available and not copyrighted is fair game for web crawlers. 
-- But commercial use of scraped data is still limited. Some forms of web scraping are also still illegal - The decision also does not grant web crawlers the freedom to obtain data from sites that require authentication.
-- The ruling excludes sites that require authentication because users must agree to the site’s Terms of Service before logging-in to the site.
+- In late 2019, the US Court of Appeals denied LinkedIn’s request to prevent HiQ, an analytics company, from scraping its data. Any data that is publicly available and not copyrighted is fair game for web crawlers. But commercial use of scraped data is still limited.
+-  Some forms of web scraping are also still illegal - The decision also does not grant web crawlers the freedom to obtain data from sites that require authentication. The ruling excludes sites that require authentication because users must agree to the site’s Terms of Service before logging-in to the site.
